@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MyDaysOnEarth (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MyDaysOnEarth (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

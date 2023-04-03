@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVfmBSEcV5AMgCMKaC91OP5VvwYX9T65jLcDAyoWQFWcD/YtrFyG/tTW06FOWmA3RNbQO42/iEWYlUfXpsUh+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rivon\\source\\repos\\DaysCounter\\MyDaysOnEarth\\MyDaysOnEarth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.230313.1\\microsoft.windowsappsdk.1.2.230313.1.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.15\\microsoft.netcore.app.runtime.win-x86.6.0.15.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x86.6.0.15.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.15\\microsoft.netcore.app.runtime.win-arm64.6.0.15.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.15.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.15\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.15.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.15\\microsoft.netcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\rivon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
